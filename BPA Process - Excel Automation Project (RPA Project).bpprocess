@@ -1,0 +1,18 @@
+﻿<process name="Excel Automation Project (RPA Project)" version="1.0" bpversion="6.10.2.42081" narrative="Project work for RPA Training and Internship" byrefcollection="true" preferredid="d79436d2-3563-432d-a146-86de8534fdfb">
+  <view>
+    <camerax>0</camerax>
+    <cameray>0</cameray>
+    <zoom version="2">1.25</zoom>
+  </view>
+  <preconditions />
+  <endpoint narrative="" />
+  <stage stageid="e1541fbf-3d84-4338-a5ed-e9368670ee8b" name="Start" type="Start">
+    <display x="15" y="-105" />
+  </stage>
+  <stage stageid="8b34e7ef-2754-4f7d-bc07-9fb7a42a3eb9" name="End" type="End">
+    <display x="15" y="90" />
+  </stage>
+  <stage stageid="5ea30ffc-2547-4a72-9128-60a6a0f59cd2" name="Stage1" type="ProcessInfo">
+    <display x="-195" y="-105" w="150" h="90" />
+  </stage>
+</process>
